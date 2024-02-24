@@ -40,3 +40,22 @@
 .nav p{
     font-size: 16px;
 }
+
+.mainImage{
+    display: flex;
+    justify-content: center;
+    background-image: url('https://www.honest.com/dw/image/v2/BDBW_PRD/on/demandware.static/-/Library-Sites-HC-content/default/dw35d41864/2024/Homepage/full-width/Hero_Desktop_NoCopy.jpg?sw=2000 2x, https://www.honest.com/dw/image/v2/BDBW_PRD/on/demandware.static/-/Library-Sites-HC-content/default/dw35d41864/2024/Homepage/full-width/Hero_Desktop_NoCopy.jpg?sw=1440 1x');
+    height: 500px;
+}
+
+.mainTxt{
+    align-self: center;
+    padding-left: 200px;
+}
+
+.mainBttn{
+    font-size: 30px;
+    padding: 15px;
+    background-color: black;
+    color: aliceblue;
+}

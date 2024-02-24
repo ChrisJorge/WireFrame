@@ -10,3 +10,22 @@
     font-size: 25px;
     transition: 4s;
 }
+
+.searchBar{
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: solid 1px gray;
+}
+
+.topContainer{
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.login{
+    display: flex;
+    margin: 0%;
+    padding: 0%;
+}
